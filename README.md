@@ -37,9 +37,9 @@ Currently only CH582M is tested.
 
 ### Keyboard manufacturers/QMK firmware users
 
-Fork this repository then manually upload you keyboard configuration file to [keyboards](https://github.com/O-H-M2/qmk_port_ch582/tree/via/qmk_porting/keyboards). You'll be able to use the GitHub Actions to build your firmware online.
+Fork this repository then manually upload you keyboard configuration file to [keyboards](qmk_port_ch582/tree/via/qmk_porting/keyboards). You'll be able to use the GitHub Actions to build your firmware online.
 
-*Note that currently the configuration file is slightly different from the original QMK ones, you may take [this keyboard](https://github.com/O-H-M2/qmk_port_ch582/tree/via/qmk_porting/keyboards/m2wired) as a start point.*
+*Note that currently the configuration file is slightly different from the original QMK ones, you may take [this keyboard](qmk_port_ch582/tree/via/qmk_porting/keyboards/m2wired) as a start point.*
 
 ### Platform developers
 
@@ -90,9 +90,9 @@ Developers：You may use the [flashing utility](http://www.wch.cn/downloads/WCHI
 
 ### 键盘生产商/QMK固件用户
 
-Fork我的仓库，手动将你的键盘配置文件上传到[keyboards](https://github.com/O-H-M2/qmk_port_ch582/tree/via/qmk_porting/keyboards)目录下，然后使用页面上方的Actions来在线编译你的固件。
+Fork我的仓库，手动将你的键盘配置文件上传到[keyboards](qmk_port_ch582/tree/via/qmk_porting/keyboards)目录下，然后使用页面上方的Actions来在线编译你的固件。
 
-*需要注意本仓库目前使用的配置文件与QMK的有一点轻微差异，你可以用[这个](https://github.com/O-H-M2/qmk_port_ch582/tree/via/qmk_porting/keyboards/m2wired)作为模板自行修改。*
+*需要注意本仓库目前使用的配置文件与QMK的有一点轻微差异，你可以用[这个](qmk_port_ch582/tree/via/qmk_porting/keyboards/m2wired)作为模板自行修改。*
 
 ### 开发者
 

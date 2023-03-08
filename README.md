@@ -90,9 +90,9 @@ Developers：You may use the [flashing utility](http://www.wch.cn/downloads/WCHI
 
 ### 键盘生产商/QMK固件用户
 
-Fork我的仓库，手动将你的键盘配置文件上传到[keyboards](qmk_port_ch582/tree/via/qmk_porting/keyboards)目录下，然后使用页面上方的Actions来在线编译你的固件。
+Fork我的仓库，手动将你的键盘配置文件上传到[keyboards](../../../qmk_port_ch582/tree/via/qmk_porting/keyboards)目录下，然后使用页面上方的Actions来在线编译你的固件。
 
-*需要注意本仓库目前使用的配置文件与QMK的有一点轻微差异，你可以用[这个](qmk_port_ch582/tree/via/qmk_porting/keyboards/m2wired)作为模板自行修改。*
+*需要注意本仓库目前使用的配置文件与QMK的有一点轻微差异，你可以用[这个](../../../qmk_port_ch582/tree/via/qmk_porting/keyboards/m2wired)作为模板自行修改。*
 
 ### 开发者
 

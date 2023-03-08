@@ -37,9 +37,9 @@ Currently only CH582M is tested.
 
 ### Keyboard manufacturers/QMK firmware users
 
-Fork this repository then manually upload you keyboard configuration file to [keyboards](qmk_port_ch582/tree/via/qmk_porting/keyboards). You'll be able to use the GitHub Actions to build your firmware online.
+Fork this repository then manually upload you keyboard configuration file to [keyboards](../../../tree/via/qmk_porting/keyboards). You'll be able to use the GitHub Actions to build your firmware online.
 
-*Note that currently the configuration file is slightly different from the original QMK ones, you may take [this keyboard](qmk_port_ch582/tree/via/qmk_porting/keyboards/m2wired) as a start point.*
+*Note that currently the configuration file is slightly different from the original QMK ones, you may take [this keyboard](../../../tree/via/qmk_porting/keyboards/m2wired) as a start point.*
 
 ### Platform developers
 
